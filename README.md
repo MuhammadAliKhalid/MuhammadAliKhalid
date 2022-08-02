@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### About Me
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning Laravel + Vue JS new feature or upgradation.
